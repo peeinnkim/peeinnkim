@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=260&section=header&text=KIM%20SOOHEE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=09fbd3&height=230&section=header&text=KIM%20SOOHEE&fontSize=90)
 
 <h3 align="center"> 💻 TECH STACK 🔌 </h3>
 <p align="center">Techs that I've used at least once</p>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQLd&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
   
 </p>
@@ -34,4 +34,4 @@
 </p>
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=fcf340&height=100&section=footer)
